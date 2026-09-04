@@ -6,8 +6,8 @@ Hands-on Linux and RHEL administration, troubleshooting, and production-style fa
 
 This repository documents my practical journey into deeper Linux and Platform Engineering.
 
-The focus is not only on configuring Linux systems, but on understanding how they fail,
-how to diagnose them, and how to recover them reliably.
+The focus is not only on configuring Linux systems, but on understanding how they behave,
+how they fail, how to diagnose issues, and how to recover them reliably.
 
 ## Focus Areas
 
@@ -33,6 +33,3 @@ labs/
 incidents/
 scripts/
 docs/
-## Engineering Principle
-
-> Build → Break → Diagnose → Fix → Document
